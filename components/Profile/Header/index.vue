@@ -2,8 +2,8 @@
 
 </script>
 <template>
-    <div class="Main">
-        <Alert />
+    <div class="ProfileHeader">
+        Profile Header
         <ProfileHeaderAvatar />
     </div>
 </template>

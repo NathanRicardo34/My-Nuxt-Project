@@ -2,10 +2,9 @@
 
 </script>
 <template>
-    <div class="Main">
-        <Alert />
-        <ProfileHeaderAvatar />
-    </div>
+<div>
+    <ProfileHeader />
+</div>
 </template>
 <style lang='scss' scoped>
 
